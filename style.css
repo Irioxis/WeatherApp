@@ -1,0 +1,13 @@
+@import "reset.css";
+
+
+
+
+.container{
+    display: block;
+    width: 2em;
+    height: 2em;
+    background-color: red;
+    max-width: 400px;
+    margin: auto;
+}
